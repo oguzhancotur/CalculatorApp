@@ -1,16 +1,15 @@
 # calculatorapp
 
-A new Flutter project.
+Bu Flutter uygulaması, provider kullanılarak tasarlanmış bir hesap makinesidir.
 
-## Getting Started
+## Ekran Görüntüleri
+<div class="row">
+    <img src="assets/cal.png" width="300">
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanılan teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter: UI geliştirmek için kullanılan çerçeve.
+Provider: Uygulama içindeki veri akışını yönetmek için kullanılan bir state yönetim desenidir.
+function_tree: matematiksel ifadeleri işlemek ve analiz etmek için kullanılan bir Dart paketidir. Bu paket, matematiksel ifadeleri ağaç yapısında temsil eder ve bu yapı üzerinde çeşitli matematiksel işlemler gerçekleştirmenize olanak tanır.
